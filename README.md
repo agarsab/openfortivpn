@@ -116,7 +116,7 @@ For other distros, you'll need to build and install from source:
 1.  Install build dependencies.
 
     * RHEL/CentOS/Fedora: `gcc` `automake` `autoconf` `openssl-devel` `make` `pkg-config`
-    * Debian/Ubuntu: `gcc` `automake` `autoconf` `libssl-dev` `make` `pkg-config`
+    * Debian/Ubuntu: `gcc` `automake` `autoconf` `libssl-dev` `make` `pkg-config` `build-essential`
     * Arch Linux: `gcc` `automake` `autoconf` `openssl` `pkg-config`
     * Gentoo Linux: `net-dialup/ppp` `pkg-config`
     * openSUSE: `gcc` `automake` `autoconf` `libopenssl-devel` `pkg-config`
